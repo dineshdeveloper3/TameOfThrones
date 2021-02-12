@@ -1,4 +1,4 @@
 # TameOfThrones
-TeamOfThrones C#
+TameOfThrones C#
 
-Team of thrones geekstrust c# 
+Tame of thrones geekstrust c# 
